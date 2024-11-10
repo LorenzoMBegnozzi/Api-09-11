@@ -1,0 +1,17 @@
+.App {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.threat-alerts h3 {
+  color: #343a40;
+}
+
+.table-danger {
+  background-color: #f8d7da !important;
+}
+
+.table-warning {
+  background-color: #fff3cd !important;
+}
